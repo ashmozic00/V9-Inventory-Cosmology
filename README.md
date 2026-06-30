@@ -1,4 +1,5 @@
 # V9-Inventory-Cosmology
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21071823.svg)](https://doi.org/10.5281/zenodo.21071823)
 Inventory-driven dynamical vacuum cosmology with native CLASS implementation and MCMC constraints from Planck 2018, BAO, and Pantheon+.
 
 ## Manuscript
