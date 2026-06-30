@@ -2,6 +2,10 @@
 Inventory-driven dynamical vacuum cosmology with native CLASS implementation and MCMC constraints from Planck 2018, BAO, and Pantheon+.
 # V9 Inventory Cosmology
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-blue)
+![Cosmology-V9-orange](https://img.shields.io/badge/cosmology-V9-orange)
+
 An inventory-driven dynamical vacuum cosmology based on closure inventory growth.
 
 ## Overview
