@@ -10,9 +10,7 @@ This repository contains the native CLASS implementation, MCMC analysis scripts,
 
 The model introduces a dynamical vacuum energy component governed by the growth of a closure inventory:
 
-\[
-\rho_\Lambda(a)\propto I(a)^{-1}
-\]
+ρΛ(a) ∝ I(a)^(-1)
 
 rather than by a fundamental scalar field.
 
