@@ -5,7 +5,7 @@ Inventory-driven dynamical vacuum cosmology with native CLASS implementation and
 
 The full manuscript is available in this repository:
 
-- `Inventory_Driven_Dynamical_Vacuum_Cosmology.pdf`
+- [Inventory_Driven_Dynamical_Vacuum_Cosmology.pdf](./Inventory_Driven_Dynamical_Vacuum_Cosmology.pdf)
 # V9 Inventory Cosmology
 
 ![License](https://img.shields.io/badge/license-MIT-green)
